@@ -1,11 +1,11 @@
 # Prog2
 
 
-$${\color{red}The \space following \space cheat \space sheet \space is \space just \space as \space a \space reference, \space it \space was \space neither \space created \space by \space me, \space nor \space am \space I \space the \space holder \space to \space any \space rights \space regarding \space it}$$
-
+## References
 <details>
-  <summary><h2>Matlab cheat sheet</h2></summary>  
-## MATLAB Cheat Sheet 
+  <summary><h3>Matlab cheat sheet</h3></summary>  
+
+$${\color{red}The \space following \space cheat \space sheet \space is \space just \space as \space a \space reference, \space it \space was \space neither \space created \space by \space me, \space nor \space am \space I \space the \space holder \space to \space any \space rights \space regarding \space it}$$
 
 [original source](https://github.com/krishnr/MATLAB-cheat-sheet/blob/master/README.md): Based off of [Learn X in Y Minutes](http://learnxinyminutes.com/docs/matlab/).
 
@@ -623,7 +623,7 @@ simulink % starts Simulink
 
 ```
 
-</detail>
+</details>
 
 
 
