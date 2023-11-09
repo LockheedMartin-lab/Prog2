@@ -4,6 +4,11 @@
 
 $${\color{red}Code \space functionality \space is \space not \space guaranteed}$$
 
+## Folders
+
+[Exercices](link)
+[Other Sorces](link)
+
 
 ## References
 <details>
@@ -11,7 +16,7 @@ $${\color{red}Code \space functionality \space is \space not \space guaranteed}$
 
 $${\color{red}The \space following \space cheat \space sheet \space is \space just \space as \space a \space reference, \space it \space was \space neither \space created \space by \space me, \space nor \space am \space I \space the \space holder \space to \space any \space rights \space regarding \space it}$$
 
-[original source](https://github.com/krishnr/MATLAB-cheat-sheet/blob/master/README.md): Based off of [Learn X in Y Minutes](http://learnxinyminutes.com/docs/matlab/).
+Based off of [Learn X in Y Minutes](http://learnxinyminutes.com/docs/matlab/).
 
 MATLAB stands for MATrix LABoratory. It is a powerful numerical computing language commonly used in engineering and mathematics.
 
@@ -629,6 +634,9 @@ simulink % starts Simulink
 
 </details>
 
+## Sources
+* [Matlab cheat sheet by Krishnr](https://github.com/krishnr/MATLAB-cheat-sheet/blob/master/README.md)  
+* [Matlab cheat sheet by ETH Zuerich](https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf)
 
 
 ## Licence
