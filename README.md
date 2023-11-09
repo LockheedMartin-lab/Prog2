@@ -7,7 +7,7 @@ $${\color{red}Code \space functionality \space is \space not \space guaranteed}$
 ## Folders
 
 [Exercices](link)  
-[Other Sorces](link)
+[Other Sources](link)
 
 
 ## References
@@ -637,7 +637,8 @@ simulink % starts Simulink
 ## Sources
 * [Matlab cheat sheet by Krishnr](https://github.com/krishnr/MATLAB-cheat-sheet/blob/master/README.md)  
 * [Matlab cheat sheet by ETH Zuerich](https://n.ethz.ch/~marcokre/download/ML-CheatSheet.pdf)
-
+* [Matlab cheat sheed by course ware](https://cw.fel.cvut.cz/b202/_media/courses/mtb/mtb_cheat_sheet.pdf)
+* [Matlab cheat sheed by Notre Dame](https://sites.nd.edu/gfu/files/2019/07/cheatsheet.pdf)
 
 ## Licence
 Just use it with common sence, if you use it write down where you got it from (the git link) and mention that others should do the same. 
