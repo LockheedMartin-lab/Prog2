@@ -6,9 +6,12 @@ $${\color{red}Code \space functionality \space is \space not \space guaranteed}$
 
 ## Folders
 
-[Exercices](link)  
-[Other Sources](link)
+[Solutions to some exercices](link)  [to be added]  
+[Solutions to some exams](link)  [to be added]  
+[Other Sources](link)  [to be added]  
 
+
+for obvious reasons, i can't provide the excercises and exams them selfes. You can find them [here](https://kuepper.userweb.mwn.de/) though.
 
 ## References
 <details>
